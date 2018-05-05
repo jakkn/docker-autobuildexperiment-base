@@ -1,1 +1,1 @@
-echo "base v1.1.1"
+echo "base v1.1.2"
